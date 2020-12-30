@@ -10,6 +10,6 @@ Note that xs can be viewed as a sequence of transformations: f_i : y -> y - xs[i
 
 More generally, if f_i( ) is a sequence of monotone transformations then we can infer the CRPS of a running estimate of the distribution (that is, f_i composed with the empirical distribution.  
 
-
+It's just an idea. 
 
 
